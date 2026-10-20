@@ -1,16 +1,16 @@
+
 # Introduction to Git and GitHub
 
-## Simple Interest Calculator
+This project demonstrates the basic concepts of Git and GitHub.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## Project Objectives
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+- Fork and clone a repository.
+- Create and edit project files.
+- Create branches and merge changes.
+- Commit and push changes.
+- Work with pull requests.
 
-_© 2022 XYZ, Inc._
+## About
+
+This repository is part of the Introduction to Git and GitHub learning project.
